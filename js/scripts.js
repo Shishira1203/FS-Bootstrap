@@ -28,10 +28,4 @@ $(document).ready(function(){
     $("#reservetable").click(function(){
         $("#reserveModal").modal("toggle");
     });
-    /*$("#carousel-pause").click(function(){
-        $("#mycarousel").carousel('pause');
-    });
-    $("#carousel-play").click(function(){
-        $("#mycarousel").carousel('cycle');
-    });*/
 });
